@@ -1,9 +1,9 @@
-<h1>Hi there 👋, I'm Ghazal Asaad</h1>
+<h1>Welcome to my Github profile!</h1>
 
 <h2>
   🎯 Front-End Developer - React 
 </h2>
-
+<br>
 
 ## 🚀 About Me
 
@@ -34,7 +34,5 @@
   <a href="https://github.com/ghazal-asaad">GitHub</a>
 </p>
 
----
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
 
