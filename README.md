@@ -12,7 +12,7 @@
 - 🧪 I use **Zod** for type-safe validation and **GSAP** for fluid animations.
 - 🌐 Always learning and exploring modern front-end tools to enhance user experience.
 
----
+
 
 ## 🛠️ Tech Stack
 
