@@ -1,10 +1,8 @@
 <h1># Welcome to my Github profile! 🚀</h1>
 
-<p>
 **Front-End Developer**
-</p>
 
--
+--
 
 ## 🚀 About Me
 
