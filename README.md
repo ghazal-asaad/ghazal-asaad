@@ -1,8 +1,11 @@
-<h1># Welcome to my Github profile! 🚀</h1>
+<h1>Hi there 👋, I'm Ghazal Asaad</h1>
 
-**Front-End Developer**
+<h2>
+  🎯 Front-End Developer | 💻 React • Next.js • TypeScript • GSAP |
+  <br />
+  I bring ideas to life on the web with clean code, smooth animations, and user-first design.
+</h2>
 
---
 
 ## 🚀 About Me
 
