@@ -1,9 +1,7 @@
 <h1>Hi there 👋, I'm Ghazal Asaad</h1>
 
 <h2>
-  🎯 Front-End Developer | 💻 React • Next.js • TypeScript • GSAP |
-  <br />
-  I bring ideas to life on the web with clean code, smooth animations, and user-first design.
+  🎯 Front-End Developer - React 
 </h2>
 
 
