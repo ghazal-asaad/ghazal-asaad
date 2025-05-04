@@ -27,9 +27,9 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img src="https://img.icons8.com/ios-filled/50/737373/secured-letter.png" alt="email icon" width="26"/>
+  <a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img src="https://img.icons8.com/material-rounded/48/4a90e2/new-post.png" alt="email icon" width="26"/>
 </a>
-<a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" /></a>
  
 </p>
 
