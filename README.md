@@ -27,27 +27,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🔹 [Mayam-ai](https://github.com/ghazal-asaad/Mayam-ai)  
-> A TypeScript-powered project with a focus on intelligent features and smooth UI transitions.  
-**Stack**: React, TypeScript, GSAP
-
-### 🔹 [ghazal-asaad](https://github.com/ghazal-asaad/ghazal-asaad)  
-> My profile repository – where you are right now 🌟
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazal-asaad&show_icons=true&theme=radical" alt="Ghazal's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazal-asaad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p>
