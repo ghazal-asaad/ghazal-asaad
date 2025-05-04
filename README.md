@@ -26,12 +26,14 @@
 
 ## 🌐 Connect with Me
 
-<p>
- <a href="mailto:ghazalasaad124@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="email" />
-</a>
-<a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="26" /></a>
- 
+<p align="left">
+  <a href="mailto:ghazalasaad124@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="email icon" width="26"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/0e76a8/linkedin.png" alt="linkedin icon" width="26"/>
+  </a>
 </p>
 
 
