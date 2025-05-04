@@ -1,7 +1,13 @@
 <h1>Hi there 👋, I'm Ghazal Asaad</h1>
 
 <p>
- 🛠️ HTML • CSS • SCSS • React • Next.js • TypeScript • MUI • ShadCN • React Query • Jotai • Zod • GSAP
+💻 Front-End Developer  
+🧩 Technologies & Tools:  
+🔹 HTML | CSS | SCSS  
+🔹 React | Next.js | TypeScript  
+🔹 MUI | ShadCN UI  
+🔹 React Query | Jotai | Zod  
+🔹 GSAP for animations  
 </p>
 
 ---
