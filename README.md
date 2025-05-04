@@ -3,7 +3,6 @@
 <h2>
   🎯 Front-End Developer - React 
 </h2>
-<br>
 
 ## 🚀 About Me
 
