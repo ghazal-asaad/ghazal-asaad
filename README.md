@@ -23,14 +23,13 @@
 - **Tools**: Git, GitHub, VS Code, Figma
 - **Other**: REST APIs, Responsive Design, Component-Based Architecture
 
----
 
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:your.email@example.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> |
-  <a href="https://github.com/ghazal-asaad">GitHub</a>
+  <a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="email icon" /></a>
+<a href="https://www.linkedin.com/in/ghazal-asaad-40a247207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+ 
 </p>
 
 
